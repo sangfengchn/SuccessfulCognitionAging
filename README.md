@@ -1,2 +1,2 @@
 # SuccessfulCognitionAging
-Some scripts of this project.
+Some scripts of the project about successful cognition aging.
